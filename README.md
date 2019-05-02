@@ -9,7 +9,7 @@ Stroop  Effect is a psychological phenomenon illustrating the difference in the 
 ## Objectives
 
 - Report Descriptive statistics of the sample dataset
-- Set up Hypotheses
+- Set up Hypothesis
 - Provide Visualizations 
 - Perform Statistical test
 - Draw conclusions
