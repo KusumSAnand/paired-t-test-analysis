@@ -13,3 +13,13 @@ Stroop  Effect is a psychological phenomenon illustrating the difference in the 
 - Provide Visualizations 
 - Perform Statistical test
 - Draw conclusions
+
+## Software Requirements
+
+This project requires **Python 3.x** and the following Python libraries installed:
+
+- [NumPy](http://www.numpy.org/)
+- [Pandas](http://pandas.pydata.org/)
+- [Matplotlib](http://matplotlib.org/)
+- [Seaborn](https://seaborn.pydata.org/)
+- [SciPy](https://www.scipy.org/)
